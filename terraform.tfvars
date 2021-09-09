@@ -1,4 +1,4 @@
-azsubscriptionid = "cf72478e-c3b0-4072-8f60-41d037c1d9e9" // SE-SUbscription
+azsubscriptionid = "UserYourOwn" 
 
 project = "Coats"
 TAG = "option1"
@@ -82,7 +82,7 @@ FGT_VERSION = "6.4.3"
 //lnx_vmsize= "Standard_D2_v3"
 
 username = "mremini"
-password =  "Fortinet20217"
+password =  "useyourOwn"
 
 
 //-------------------------------------------------Spoke VNETs----------------------------------------
